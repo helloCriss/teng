@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: cn.mlg.teng.ta.MyProgram
+Agent-Class: cn.mlg.teng.ta.MyAgent
+Can-Redefine-Classes: true
